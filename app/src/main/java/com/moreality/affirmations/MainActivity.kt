@@ -6,7 +6,6 @@ import android.os.Bundle
 import androidx.recyclerview.widget.RecyclerView
 import com.moreality.affirmations.adapter.ItemAdapter
 import com.moreality.affirmations.data.Datasource
-// import javax.sql.DataSource
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
