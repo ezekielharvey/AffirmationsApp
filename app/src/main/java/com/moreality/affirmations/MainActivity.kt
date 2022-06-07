@@ -2,7 +2,7 @@ package com.moreality.affirmations
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-// import android.widget.TextView
+
 import androidx.recyclerview.widget.RecyclerView
 import com.moreality.affirmations.adapter.ItemAdapter
 import com.moreality.affirmations.data.Datasource
